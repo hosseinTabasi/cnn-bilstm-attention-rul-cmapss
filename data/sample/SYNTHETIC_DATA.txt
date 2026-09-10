@@ -1,0 +1,2 @@
+This directory contains SYNTHETIC C-MAPSS-like data.
+Do not treat results as comparable to published C-MAPSS benchmarks.
