@@ -1,0 +1,12 @@
+# FD001 primary config
+defaults:
+  - default
+dataset:
+  subset: FD001
+  sequence_length: 30
+  horizons: [1, 5, 10]
+model:
+  hidden_dim: 64
+training:
+  epochs: 40
+  seed: 42
